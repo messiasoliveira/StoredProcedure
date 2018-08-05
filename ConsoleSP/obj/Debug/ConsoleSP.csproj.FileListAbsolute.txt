@@ -1,0 +1,7 @@
+C:\Users\messi\source\Repos\ConsoleSP\ConsoleSP\bin\Debug\ConsoleSP.exe.config
+C:\Users\messi\source\Repos\ConsoleSP\ConsoleSP\bin\Debug\ConsoleSP.exe
+C:\Users\messi\source\Repos\ConsoleSP\ConsoleSP\bin\Debug\ConsoleSP.pdb
+C:\Users\messi\source\Repos\ConsoleSP\ConsoleSP\obj\Debug\ConsoleSP.csprojResolveAssemblyReference.cache
+C:\Users\messi\source\Repos\ConsoleSP\ConsoleSP\obj\Debug\ConsoleSP.csproj.CoreCompileInputs.cache
+C:\Users\messi\source\Repos\ConsoleSP\ConsoleSP\obj\Debug\ConsoleSP.exe
+C:\Users\messi\source\Repos\ConsoleSP\ConsoleSP\obj\Debug\ConsoleSP.pdb
